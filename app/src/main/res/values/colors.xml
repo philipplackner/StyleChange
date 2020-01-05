@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--blue-->
+    <color name="md_blue_50">#E3F2FD</color>
+    <color name="md_blue_100">#BBDEFB</color>
+    <color name="md_blue_200">#90CAF9</color>
+    <color name="md_blue_300">#64B5F6</color>
+    <color name="md_blue_400">#42A5F5</color>
+    <color name="md_blue_500">#2196F3</color>
+    <color name="md_blue_700">#1976D2</color>
+    <color name="md_blue_800">#1565C0</color>
+    <color name="md_blue_900">#0D47A1</color>
+    <color name="md_blue_A100">#82B1FF</color>
+    <color name="md_blue_A200">#448AFF</color>
+    <color name="md_blue_A400">#2979FF</color>
+    <color name="md_blue_A700">#2962FF</color>
+    <color name="colorAccentBlueTheme">#FFE600</color>
+    <color name="errorColorBlueTheme">#D50000</color>
+
+    <color name="deep_purple_50">#ede7f6</color>
+    <color name="deep_purple_100">#d1c4e9</color>
+    <color name="deep_purple_200">#b39ddb</color>
+    <color name="deep_purple_300">#9575cd</color>
+    <color name="deep_purple_400">#7e57c2</color>
+    <color name="deep_purple_500">#673ab7</color>
+    <color name="deep_purple_600">#5e35b1</color>
+    <color name="deep_purple_700">#512da8</color>
+    <color name="deep_purple_800">#4527a0</color>
+    <color name="deep_purple_900">#311b92</color>
+    <color name="deep_purple_A100">#b388ff</color>
+    <color name="deep_purple_A200">#7c4dff</color>
+    <color name="deep_purple_A400">#651fff</color>
+    <color name="deep_purple_A700">#6200ea</color>
+    <color name="colorAccentPurpleTheme">#00ACC1</color>
+    <color name="errorColorPurpleTheme">#FF0000</color>
+
+    <color name="lime_50">#f9fbe7</color>
+    <color name="lime_100">#f0f4c3</color>
+    <color name="lime_200">#e6ee9c</color>
+    <color name="lime_300">#dce775</color>
+    <color name="lime_400">#d4e157</color>
+    <color name="lime_500">#cddc39</color>
+    <color name="lime_600">#c0ca33</color>
+    <color name="lime_700">#afb42b</color>
+    <color name="lime_800">#9e9d24</color>
+    <color name="lime_900">#827717</color>
+    <color name="lime_A100">#f4ff81</color>
+    <color name="lime_A200">#eeff41</color>
+    <color name="lime_A400">#c6ff00</color>
+    <color name="lime_A700">#aeea00</color>
+    <color name="colorAccentLimeTheme">#F4511E</color>
+    <color name="errorColorLimeTheme">#D50000</color>
+
+    <color name="deep_orange_50">#fbe9e7</color>
+    <color name="deep_orange_100">#ffccbc</color>
+    <color name="deep_orange_200">#ffab91</color>
+    <color name="deep_orange_300">#ff8a65</color>
+    <color name="deep_orange_400">#ff7043</color>
+    <color name="deep_orange_500">#ff5722</color>
+    <color name="deep_orange_600">#f4511e</color>
+    <color name="deep_orange_700">#e64a19</color>
+    <color name="deep_orange_800">#d84315</color>
+    <color name="deep_orange_900">#bf360c</color>
+    <color name="deep_orange_A100">#ff9e80</color>
+    <color name="deep_orange_A200">#ff6e40</color>
+    <color name="deep_orange_A400">#ff3d00</color>
+    <color name="deep_orange_A700">#dd2c00</color>
+    <color name="colorAccentOrangeTheme">#C0CA33</color>
+    <color name="errorColorOrangeTheme">#D50000</color>
+</resources>

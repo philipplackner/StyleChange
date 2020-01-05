@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginBottom="32dp"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/tvTheme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="48sp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:text="BLUE THEME" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnBlueTheme"
+        android:layout_width="150dp"
+        android:layout_height="25dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:layout_weight="1"
+        android:text="Blue Theme" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnPurpleTheme"
+        android:layout_width="150dp"
+        android:layout_height="25dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:layout_weight="1"
+        android:text="Purple Theme"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnLimeTheme"
+        android:layout_width="150dp"
+        android:layout_height="25dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:layout_weight="1"
+        android:text="Lime Theme" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnOrangeTheme"
+        android:layout_width="150dp"
+        android:layout_height="25dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:layout_weight="1"
+        android:text="Orange Theme" />
+
+</LinearLayout>
